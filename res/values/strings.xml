@@ -5,5 +5,9 @@
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
     <string name="url">UTP visita</string>
+     <string name="Contactenos">Contactenos</string>
+     <string name="Conocenos">Conocenos</string>
+   
+    
 
 </resources>
